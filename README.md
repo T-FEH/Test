@@ -1,2 +1,2 @@
 # Test
- My first REPO created by BOLUWATIFE
+ My first REPOSITORY created by BOLUWATIFE
